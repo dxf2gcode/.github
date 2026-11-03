@@ -7,6 +7,7 @@ Open-source DXF to G-code conversion for milling, turning and drag-knife cutting
 
 <p align="center">
   <a href="https://github.com/dxf2gcode/dxf2gcode/releases"><strong>Downloads</strong></a> ·
+  <a href="https://github.com/dxf2gcode/dxf2gcode_installer" title="Installation script for Debian/Ubuntu, Linux Mint and Arch-based systems"><strong>Linux Installer</strong></a> ·
   <a href="https://dxf2gcode.github.io/dxf2gcode/"><strong>Documentation</strong></a> ·
   <a href="https://github.com/dxf2gcode/dxf2gcode"><strong>Source code</strong></a> ·
   <a href="https://github.com/dxf2gcode/dxf2gcode/issues"><strong>Report an issue</strong></a>
